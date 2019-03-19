@@ -10,3 +10,5 @@ A hello world example
 
  add spline 
 ## code example
+
+add ssh key to macbook
